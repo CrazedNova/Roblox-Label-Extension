@@ -3,7 +3,7 @@
 ## What We Do With Your Data: 🧪 ⚠️
 - We **do not collect, transmit, or store** any personal data outside of your own browser.
 - All settings, labels, and changes are stored **locally** on your device using Chrome’s `storage` API.
-- We do **not**: 🚫
+- We do **not**: 🛑
   - Track your activity  💻
   - Log personal information 💿
   - Share data with any third parties ⛓️‍💥
